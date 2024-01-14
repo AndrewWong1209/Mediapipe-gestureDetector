@@ -1,6 +1,7 @@
 ## Mediapipe simple hand gesture detection
 
 **Description**
+
 This project aims to develop a simple hand gesture detection, and just for self-learning purposes.
 The project is developed with reference to Nicholas Renotte 's YouTube video. If you seek development details and a guide, please watch his YouTube video (https://www.youtube.com/watch?v=doDUihpj6ro).
 This project collects self-captured gesture data and can recognize 3 gestures: Hello, peace, and salute.
